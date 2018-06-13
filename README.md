@@ -6,5 +6,5 @@ This will continue until the user either selects the same image twice or until t
 
 Example pictures of the app running and working with win/lose scenarios are located in screenshots folder
 
-
+Link to App: https://click-memory-game.herokuapp.com/
 
