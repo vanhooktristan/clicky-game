@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "bonooru.png"
+    },
+    {
+      "id": 2,
+      "image": "ganon.png"    
+    },
+    {
+      "id": 3,
+      "image": "goron.png"
+    },
+    {
+      "id": 4,
+      "image": "link1.png" 
+    },
+    {
+      "id": 5,
+      "image": "link2.png"
+    },
+    {
+      "id": 6,
+      "image": "majora.jpg"
+    },
+    {
+      "id": 7,
+      "image": "midna.jpg"
+    },
+    {
+      "id": 8,
+      "image": "vaati.png"
+    },
+    {
+      "id": 9,
+      "image": "wolf.jpg"
+    },
+    {
+      "id": 10,
+      "image": "zelda1.jpg"
+    },
+    {
+      "id": 11,
+      "image": "zelda2.png"
+    },
+    {
+      "id": 12,
+      "image": "zora.jpg"
+    }
+  ]
+  
