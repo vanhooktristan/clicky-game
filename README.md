@@ -4,3 +4,7 @@ In this game the user is prompted to select and image from the 12 listed on the 
 
 This will continue until the user either selects the same image twice or until the user selects all 12 images successfully.
 
+Example pictures of the app running and working with win/lose scenarios are located in screenshots folder
+
+
+
